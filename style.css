@@ -1,0 +1,33 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-size: 120%;
+  background: #F8F8FF;
+}
+
+.form-div {
+  margin: 50px auto 50px;
+  padding: 25px 15px 10px 15px;
+  border: 1px solid #B0C4DE;
+  border-radius: 5px;
+  font-size: 1.1em;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+form p {
+  font-size: .89em;
+}
+
+.form-div.login {
+  margin-top: 100px;
+}
+
+.logout {
+  color: white;
+}
